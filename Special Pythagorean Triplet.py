@@ -5,3 +5,4 @@ def process():
             if a * a + b * b == c * c:
                 print(a * b * c)
                 return
+process()
